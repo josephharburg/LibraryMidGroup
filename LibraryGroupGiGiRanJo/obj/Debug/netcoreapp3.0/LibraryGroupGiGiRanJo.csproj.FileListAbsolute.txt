@@ -1,0 +1,11 @@
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\bin\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.exe
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\bin\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.deps.json
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\bin\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.runtimeconfig.json
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\bin\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.runtimeconfig.dev.json
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\bin\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.dll
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\bin\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.pdb
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\obj\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\obj\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\obj\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.AssemblyInfo.cs
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\obj\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.dll
+C:\Users\josep\source\repos\GroupLab\LibraryMidGroup\LibraryGroupGiGiRanJo\obj\Debug\netcoreapp3.0\LibraryGroupGiGiRanJo.pdb
